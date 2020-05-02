@@ -18,8 +18,8 @@
 
   "private": true,
   "dependencies": {
-    "@angular/cli": "^1.6.3",
-    "@angular/compiler-cli": "^5.0.0",
+    
+  
     "@angular/animations": "^5.0.0",
     "@angular/common": "^5.0.0",
     "@angular/compiler": "^5.0.0",
@@ -51,7 +51,9 @@
     "karma-jasmine-html-reporter": "^0.2.2",
     "protractor": "~5.1.2",
     "ts-node": "~3.2.0",
-    "tslint": "~5.7.0"
+    "tslint": "~5.7.0",
+    "@angular/cli": "^1.6.3",
+    "@angular/compiler-cli": "^5.0.0"
   },
   "devDependencies": {
     "@angular/cli": "^1.6.3",
